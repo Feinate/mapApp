@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.project.mapapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:7:22-76
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+18
+19    <application
+19-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:9:5-29:19
+20        android:allowBackup="true"
+20-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:10:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b00a794a7ec2cdae826217c0becaa5eb\core-1.3.2\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:11:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:12:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:13:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:14:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.MapApp" >
+29-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:15:9-44
+30        <meta-data
+30-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:16:9-18:55
+31            android:name="com.google.android.geo.API_KEY"
+31-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:17:13-58
+32            android:value="@string/google_maps_key" />
+32-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:18:13-52
+33
+34        <activity android:name="com.project.mapapp.MapsActivity" />
+34-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:19:9-49
+34-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:19:19-47
+35        <activity
+35-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:20:9-28:20
+36            android:name="com.project.mapapp.LastPosition"
+36-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:21:13-41
+37            android:label="@string/title_activity_maps" >
+37-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:22:13-56
+38            <intent-filter>
+38-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:23:13-27:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:24:17-69
+39-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:24:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:26:17-77
+41-->C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:26:27-74
+42            </intent-filter>
+43        </activity>
+44        <!-- Needs to be explicitly declared on P+ -->
+45        <uses-library
+45-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+46            android:name="org.apache.http.legacy"
+46-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+47            android:required="false" />
+47-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+48
+49        <activity
+49-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+50            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+50-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+51            android:exported="false"
+51-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+52            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+52-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+53
+54        <meta-data
+54-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+55            android:name="com.google.android.gms.version"
+55-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+56            android:value="@integer/google_play_services_version" />
+56-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+57    </application>
+58
+59</manifest>

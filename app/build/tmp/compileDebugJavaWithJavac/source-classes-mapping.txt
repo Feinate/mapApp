@@ -1,0 +1,2 @@
+com/project/mapapp/BuildConfig.java
+ com.project.mapapp.BuildConfig

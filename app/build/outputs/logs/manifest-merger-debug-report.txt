@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\76a4525e770e787e27def9f7d67da1bf\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\17d420c75b4105740ed2d3c9f449d88f\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\05c32b3490bf06a2918fe97047729e56\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b1956f5892706138178c449e927e4454\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:maps-utils-ktx:2.4.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\653c2804fedc56323168a120d075957d\jetified-maps-utils-ktx-2.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd120d51b779a45f521115a8a7631539\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\278f1325d17e50556313fd9a82d43a43\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\6907953d0a7d1d2486a42d7669d94109\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\08e07fefea0910d0beac2bf17f42666b\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\4280e7f8e8787c7efa54e5f4dd8d233f\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd77f9c3b1ba1d3db6f6f0d64bdd0a3a\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\2ae9d48e5b749c35e3bd8effc55cd18c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\47631867abb62a4af8279b051850bad1\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\26464a243d42e79ef05facc7a85e670f\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c7efbc49b908741e1dd9e6b8d052799b\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06e0ab29303745334eceb9d332dbe433\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c8ca7c829947804562ae4867cac8631e\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\e267f0a862123cf68af8ada901802073\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\26b11c860c085945d6de5f0c28c006ea\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\7fb1cd570e451bffb6d02e07f156542f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\1f07a220d6481d3477962dae0ea3d907\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\6d435ccfdd191e4d81f6c2718c955ba1\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\723bf7a9b1e28dba684225c23b3b02b0\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b00a794a7ec2cdae826217c0becaa5eb\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\8cec043d8b513c9feef981a9caa46e36\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\0839d464e85525ef12014aea084b0799\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd531b9df6aa8e79c8f036a8ebaed759\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\7f43e81c34d89b30fe3825002ae04449\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\62e6d07d64146ba7f80182c34354d87d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\11e54cba29486c4a1fe4475ab451d4bb\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\8c9e62f2f3ed9c7289054b190c533993\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\10f0048531035bf03b17cf52744a00e4\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\7ddc3aee78238ec6182212302691b35b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\2b9f115ec444de7c147a93756d595599\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bbdd9b614d6b0eae6dbed9f3c93308a9\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\5c421a5db6a3a99ec07ef93847839def\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\5f78068d06a5e11a298b5105d43d4e0b\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\52cadbecf2f18b554b3520508ba60f4e\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c94243fed963925eb99b9eb9382b21d3\jetified-android-maps-utils-2.0.1\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\17d420c75b4105740ed2d3c9f449d88f\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\17d420c75b4105740ed2d3c9f449d88f\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\05c32b3490bf06a2918fe97047729e56\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\05c32b3490bf06a2918fe97047729e56\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd120d51b779a45f521115a8a7631539\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd120d51b779a45f521115a8a7631539\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\6907953d0a7d1d2486a42d7669d94109\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\6907953d0a7d1d2486a42d7669d94109\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\08e07fefea0910d0beac2bf17f42666b\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\08e07fefea0910d0beac2bf17f42666b\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b00a794a7ec2cdae826217c0becaa5eb\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b00a794a7ec2cdae826217c0becaa5eb\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd531b9df6aa8e79c8f036a8ebaed759\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd531b9df6aa8e79c8f036a8ebaed759\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c94243fed963925eb99b9eb9382b21d3\jetified-android-maps-utils-2.0.1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c94243fed963925eb99b9eb9382b21d3\jetified-android-maps-utils-2.0.1\AndroidManifest.xml:11:5-15:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b00a794a7ec2cdae826217c0becaa5eb\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:15:9-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:16:9-18:55
+	android:value
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:18:13-52
+	android:name
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:17:13-58
+activity#com.project.mapapp.MapsActivity
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:19:9-49
+	android:name
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.project.mapapp.LastPosition
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\76a4525e770e787e27def9f7d67da1bf\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\76a4525e770e787e27def9f7d67da1bf\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\17d420c75b4105740ed2d3c9f449d88f\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\17d420c75b4105740ed2d3c9f449d88f\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\05c32b3490bf06a2918fe97047729e56\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\05c32b3490bf06a2918fe97047729e56\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b1956f5892706138178c449e927e4454\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b1956f5892706138178c449e927e4454\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:maps-utils-ktx:2.4.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\653c2804fedc56323168a120d075957d\jetified-maps-utils-ktx-2.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.maps.android:maps-utils-ktx:2.4.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\653c2804fedc56323168a120d075957d\jetified-maps-utils-ktx-2.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd120d51b779a45f521115a8a7631539\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd120d51b779a45f521115a8a7631539\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\278f1325d17e50556313fd9a82d43a43\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\278f1325d17e50556313fd9a82d43a43\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\6907953d0a7d1d2486a42d7669d94109\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\6907953d0a7d1d2486a42d7669d94109\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\08e07fefea0910d0beac2bf17f42666b\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\08e07fefea0910d0beac2bf17f42666b\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\4280e7f8e8787c7efa54e5f4dd8d233f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\4280e7f8e8787c7efa54e5f4dd8d233f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd77f9c3b1ba1d3db6f6f0d64bdd0a3a\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd77f9c3b1ba1d3db6f6f0d64bdd0a3a\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\2ae9d48e5b749c35e3bd8effc55cd18c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\2ae9d48e5b749c35e3bd8effc55cd18c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\47631867abb62a4af8279b051850bad1\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\47631867abb62a4af8279b051850bad1\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\26464a243d42e79ef05facc7a85e670f\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\26464a243d42e79ef05facc7a85e670f\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c7efbc49b908741e1dd9e6b8d052799b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c7efbc49b908741e1dd9e6b8d052799b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06e0ab29303745334eceb9d332dbe433\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06e0ab29303745334eceb9d332dbe433\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c8ca7c829947804562ae4867cac8631e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c8ca7c829947804562ae4867cac8631e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\e267f0a862123cf68af8ada901802073\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\e267f0a862123cf68af8ada901802073\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\26b11c860c085945d6de5f0c28c006ea\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\26b11c860c085945d6de5f0c28c006ea\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\7fb1cd570e451bffb6d02e07f156542f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\7fb1cd570e451bffb6d02e07f156542f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\1f07a220d6481d3477962dae0ea3d907\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\1f07a220d6481d3477962dae0ea3d907\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\6d435ccfdd191e4d81f6c2718c955ba1\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\6d435ccfdd191e4d81f6c2718c955ba1\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\723bf7a9b1e28dba684225c23b3b02b0\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\723bf7a9b1e28dba684225c23b3b02b0\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b00a794a7ec2cdae826217c0becaa5eb\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\b00a794a7ec2cdae826217c0becaa5eb\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\8cec043d8b513c9feef981a9caa46e36\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\8cec043d8b513c9feef981a9caa46e36\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\0839d464e85525ef12014aea084b0799\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\0839d464e85525ef12014aea084b0799\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd531b9df6aa8e79c8f036a8ebaed759\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bd531b9df6aa8e79c8f036a8ebaed759\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\7f43e81c34d89b30fe3825002ae04449\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\7f43e81c34d89b30fe3825002ae04449\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\62e6d07d64146ba7f80182c34354d87d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\62e6d07d64146ba7f80182c34354d87d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\11e54cba29486c4a1fe4475ab451d4bb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\11e54cba29486c4a1fe4475ab451d4bb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\8c9e62f2f3ed9c7289054b190c533993\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\8c9e62f2f3ed9c7289054b190c533993\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\10f0048531035bf03b17cf52744a00e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\10f0048531035bf03b17cf52744a00e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\7ddc3aee78238ec6182212302691b35b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\7ddc3aee78238ec6182212302691b35b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\2b9f115ec444de7c147a93756d595599\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\2b9f115ec444de7c147a93756d595599\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bbdd9b614d6b0eae6dbed9f3c93308a9\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\bbdd9b614d6b0eae6dbed9f3c93308a9\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\5c421a5db6a3a99ec07ef93847839def\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\5c421a5db6a3a99ec07ef93847839def\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\5f78068d06a5e11a298b5105d43d4e0b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\5f78068d06a5e11a298b5105d43d4e0b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\52cadbecf2f18b554b3520508ba60f4e\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\52cadbecf2f18b554b3520508ba60f4e\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c94243fed963925eb99b9eb9382b21d3\jetified-android-maps-utils-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c94243fed963925eb99b9eb9382b21d3\jetified-android-maps-utils-2.0.1\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mehdi\AndroidStudioProjects\mapApp\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\ce83b9b2c0d0a078e211199756d78403\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\06a42a23855750a52b3e261e7f10dbb1\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c94243fed963925eb99b9eb9382b21d3\jetified-android-maps-utils-2.0.1\AndroidManifest.xml:12:9-14:69
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\c94243fed963925eb99b9eb9382b21d3\jetified-android-maps-utils-2.0.1\AndroidManifest.xml:12:9-14:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\mehdi\.gradle\caches\transforms-2\files-2.1\a74c65aafae3aae8e5dc4e4c8b9d6e5c\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
